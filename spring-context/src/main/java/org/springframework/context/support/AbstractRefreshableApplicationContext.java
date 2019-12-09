@@ -134,6 +134,7 @@ public abstract class AbstractRefreshableApplicationContext extends AbstractAppl
 			//todo 设置beanFactory的各种属性 包括各种属性以及是否允许覆盖相同名称对应的不同对象以及循环依赖
 			//todo 以及@Autowired主句
 			customizeBeanFactory(beanFactory);
+			//加载beanFactory并设置解析器
 			loadBeanDefinitions(beanFactory);
 			synchronized (this.beanFactoryMonitor) {
 				this.beanFactory = beanFactory;

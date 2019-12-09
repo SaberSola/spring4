@@ -208,7 +208,7 @@ public class DefaultSingletonBeanRegistry extends SimpleAliasRegistry implements
 					if (singletonFactory != null) {
 						singletonObject = singletonFactory.getObject();
 						this.earlySingletonObjects.put(beanName, singletonObject);
-						//移除执勤啊的
+						//移除之前的
 						this.singletonFactories.remove(beanName);
 					}
 				}

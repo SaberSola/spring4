@@ -240,8 +240,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 			@Nullable final Object[] args, boolean typeCheckOnly) throws BeansException {
 
 		// TODO 获取对应的beanName
-
-		final String beanName = transformedBeanName(name);
+		final String beanName = transformedBeanName(name);//获取beanName
 
 		Object bean;
 
@@ -251,7 +250,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 		//TODO 在创建单例bean 的时候会存在依赖注入的情况，spring创建bean的原则为了避免循环依赖，
 		//spring在不等bean穿件完成的时候会将创建的bean 的ObjectFactory加入Map中，一旦下个bean创建的
 		//需要依赖上个bean的时候则直接使用objectfactory
-		Object sharedInstance = getSingleton(beanName);
+		Object sharedInstance = getSingleton(beanName);//允许循环依赖
 		if (sharedInstance != null && args == null) {
 			if (logger.isDebugEnabled()) {
 				if (isSingletonCurrentlyInCreation(beanName)) {
@@ -287,9 +286,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 			/**
 			 * 如果beanFactoryMap中不包含beanName，
 			 * 需要尝试从parentFactory中检测
-			 *
 			 */
-
 			BeanFactory parentBeanFactory = getParentBeanFactory();
 			if (parentBeanFactory != null && !containsBeanDefinition(beanName)) {
 				// Not found -> check parent.
@@ -331,9 +328,11 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 				 */
 				// Guarantee initialization of beans that the current bean depends on.
 				String[] dependsOn = mbd.getDependsOn();
+				//如果有依赖的其他bean
 				if (dependsOn != null) {
 					for (String dep : dependsOn) {
-						if (isDependent(beanName, dep)) {
+						if (
+								isDependent(beanName, dep)) {
 							throw new BeanCreationException(mbd.getResourceDescription(), beanName,
 									"Circular depends-on relationship between '" + beanName + "' and '" + dep + "'");
 						}
