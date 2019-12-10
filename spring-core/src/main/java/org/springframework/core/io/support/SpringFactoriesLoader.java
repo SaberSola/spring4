@@ -115,17 +115,19 @@ public abstract class SpringFactoriesLoader {
 	 * @throws IllegalArgumentException if an error occurs while loading factory names
 	 */
 	public static List<String> loadFactoryNames(Class<?> factoryClass, @Nullable ClassLoader classLoader) {
-		String factoryClassName = factoryClass.getName();
+		String factoryClassName = factoryClass.getName();//获取需要加载class的全路径名
 		return loadSpringFactories(classLoader).getOrDefault(factoryClassName, Collections.emptyList());
 	}
 
 	private static Map<String, List<String>> loadSpringFactories(@Nullable ClassLoader classLoader) {
+		//第一次加载资源文件为null
 		MultiValueMap<String, String> result = cache.get(classLoader);
 		if (result != null) {
 			return result;
 		}
 
 		try {
+			//解析META-INF/spring.factories下文件内容并放入cache中
 			Enumeration<URL> urls = (classLoader != null ?
 					classLoader.getResources(FACTORIES_RESOURCE_LOCATION) :
 					ClassLoader.getSystemResources(FACTORIES_RESOURCE_LOCATION));

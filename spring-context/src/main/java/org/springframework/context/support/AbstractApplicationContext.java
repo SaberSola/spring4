@@ -511,22 +511,32 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 	public Collection<ApplicationListener<?>> getApplicationListeners() {
 		return this.applicationListeners;
 	}
-
 	@Override
 	public void refresh() throws BeansException, IllegalStateException {
 		synchronized (this.startupShutdownMonitor) {
 			// Prepare this context for refreshing
-			// TODO  刷新上下文环境
+			/**
+			 * 刷新上下文环境,同时检验Environment中属性的正确性
+			 */
 			prepareRefresh();
 
 
 			//初始化BeanFactory 并进行xml文件的读取
+			//设置是否可以覆盖同名称不同定义的bean
+			//是否支持循环依赖
+			//对@Autowired支持
 			//这里的时候applicationContext 已经具有beanFactory的所有功能
 			// Tell the subclass to refresh the internal bean factory.
 			ConfigurableListableBeanFactory beanFactory = obtainFreshBeanFactory();
 
-			//对beanFactory进行各种填充
-			// Prepare the bean factory for use in this context.
+			/**
+			 * 到这里Spring已经完成了对配置的解析
+			 * 开始对beanFactory进行各种填充
+			 * bean的类加载器
+			 * spel表达式解析器
+			 * ApplicationContextAwareProcessor处理器
+			 * ApplicationListenerDetector处理器
+			 */
 			prepareBeanFactory(beanFactory);
 
 			try {
@@ -535,10 +545,10 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 				postProcessBeanFactory(beanFactory);
 
 				//激活beanfactory的处理器
-				// Invoke factory processors registered as beans in the context.
+				//执行对应的postProcessBeanDefinitionRegistry方法 和  postProcessBeanFactory方法
 				invokeBeanFactoryPostProcessors(beanFactory);
 
-				//TODO 注册bean创建bean的处理器 这里只是注册 调用的时候在getbean
+				//注册bean的处理器BeanPostProcessor这里只是注册处理器, 在getbean()具体实例化bean的时候执行对应的方法
 				// Register bean processors that intercept bean creation.
 				registerBeanPostProcessors(beanFactory);
 
@@ -553,14 +563,15 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 				onRefresh();
 
 				// Check for listener beans and register them.
-				//在所有注册的bean查找到监听bean 并注入到l消息广播器中
+				//在所有注册的bean查找到监听bean的listener 并注入到l消息广播器中
 				registerListeners();
 
 				// Instantiate all remaining (non-lazy-init) singletons.
 				finishBeanFactoryInitialization(beanFactory);
 
 				// Last step: publish corresponding event.
-				//完成刷新过程，通知声明周期处理器 同
+				//完成刷新过程，通知声明周期处理器 同时发送ContextRefreshedEvent事件,
+				//业务方可以设置监听listener做容器启动后的处理
 				finishRefresh();
 			}
 

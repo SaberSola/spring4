@@ -1650,6 +1650,8 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 	 * @param beanName the canonical bean name
 	 * @param mbd the merged bean definition
 	 * @return the object to expose for the bean
+	 *
+	 *
 	 */
 	protected Object getObjectForBeanInstance(
 			Object beanInstance, String name, String beanName, @Nullable RootBeanDefinition mbd) {
@@ -1688,6 +1690,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 			//尝试从缓存中加载到bean
 			object = getCachedObjectForFactoryBean(beanName);
 		}
+		//从缓存获取不到bean
 		if (object == null) {
 			/**
 			 *
@@ -1706,7 +1709,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 			/**
 			 * 将factory中解析的bean的工作委托给下边的方法
 			 */
-			object = getObjectFromFactoryBean(factory, beanName, !synthetic);
+			object = getObjectFromFactoryBean(factory, beanName, !synthetic); //从BeanFactory 获取bean
 		}
 		return object;
 	}
