@@ -108,10 +108,11 @@ task testNG(type: Test) {
 
 task testJUnitJupiter(type: Test) {
 	description = 'Runs JUnit Jupiter tests.'
-	useJUnitPlatform {
-		includeEngines 'junit-jupiter'
-		excludeTags 'failing-test-case'
-	}
+	//useJUnitPlatform {
+	//	includeEngines 'junit-jupiter'
+	//	excludeTags 'failing-test-case'
+	//
+	// }
 	filter {
 		includeTestsMatching "org.springframework.test.context.junit.jupiter.*"
 	}
