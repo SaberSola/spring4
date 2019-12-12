@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.activemq:activemq-stomp:5.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq/activemq-stomp/5.8.0/65f95a0731b994fd6ff27109f5f98bc5e40a5c65/activemq-stomp-5.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq/activemq-stomp/5.8.0/272b9f55d981e009258b34cb3fddc27b5a792fa3/activemq-stomp-5.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

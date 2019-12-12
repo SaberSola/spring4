@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-context-support" external.linked.project.path="$MODULE_DIR$/../../../spring-context-support" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="org.springframework" external.system.module.version="5.1.0.BUILD-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../spring-context-support">
+      <excludeFolder url="file://$MODULE_DIR$/../../../spring-context-support/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../spring-context-support/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../spring-context-support/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars:underscorejs:1.8.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/underscorejs/1.8.3/fcab4cc1900b36b70581327711c2d2fb69bd15f1/underscorejs-1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/underscorejs/1.8.3/7ee97914d25dcbf1b7361c28e6b0722bbfa842d8/underscorejs-1.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

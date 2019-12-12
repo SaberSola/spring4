@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jibx:jibx-run:1.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jibx/jibx-run/1.3.1/823bdac9c1781c112b36dd853d77da510c29d1a3/jibx-run-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jibx/jibx-run/1.3.1/b915d9277f9a10e84d3e0092d0d8ae7ede0a98c0/jibx-run-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

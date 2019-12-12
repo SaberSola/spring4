@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.inject:javax.inject-tck:1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject-tck/1/bb0090d50219c265be40fcc8e034dae37fa7be99/javax.inject-tck-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject-tck/1/863303a30234b5407d8856bf4031bab052a0192f/javax.inject-tck-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

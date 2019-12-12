@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jnr:jnr-netdb:1.1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-netdb/1.1.6/ac1e5af7edfda95086679f27a35b18f10f4c88b5/jnr-netdb-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-netdb/1.1.6/d07d0c81d83a0f415fc906ce6a9fc7a198002ff9/jnr-netdb-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

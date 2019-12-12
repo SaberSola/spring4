@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.javamoney.moneta:moneta-convert-ecb:1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javamoney.moneta/moneta-convert-ecb/1.2.1/de70a3f6827065a51eba7a8f92833b637063bc67/moneta-convert-ecb-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javamoney.moneta/moneta-convert-ecb/1.2.1/d32d0208f1edc1200e697f3d1d7b55260b8bd4f1/moneta-convert-ecb-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

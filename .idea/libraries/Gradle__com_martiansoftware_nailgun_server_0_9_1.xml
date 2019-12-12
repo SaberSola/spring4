@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.martiansoftware:nailgun-server:0.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.martiansoftware/nailgun-server/0.9.1/d57ea0a6f6c1bb1b616c5b3b311b3726c6ff35ad/nailgun-server-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.martiansoftware/nailgun-server/0.9.1/883bf2d49662530811c0ab41ebbc926d6274bb9/nailgun-server-0.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

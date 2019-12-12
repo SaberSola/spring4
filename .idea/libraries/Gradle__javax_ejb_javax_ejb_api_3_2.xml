@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.ejb:javax.ejb-api:3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ejb/javax.ejb-api/3.2/6da48d715f67cd6ad55e96cc55030532d35062f1/javax.ejb-api-3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ejb/javax.ejb-api/3.2/24d3f4bc3af9eec058a5069c6e64aef35d0cd021/javax.ejb-api-3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

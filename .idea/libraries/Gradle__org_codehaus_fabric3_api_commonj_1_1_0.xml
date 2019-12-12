@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.fabric3.api:commonj:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.fabric3.api/commonj/1.1.0/11e7a4fbf6c257e221df0aadf9851d8992fe60ff/commonj-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.fabric3.api/commonj/1.1.0/edd68ec763a593f506a0e3b011ef55f1bba08490/commonj-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

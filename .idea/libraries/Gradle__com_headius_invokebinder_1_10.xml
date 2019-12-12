@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.headius:invokebinder:1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.headius/invokebinder/1.10/bc78aeca11324f8f02d00cf3bfa69fc930f3e46/invokebinder-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.headius/invokebinder/1.10/b9d1b63ca081d79570b59960b1e67af1a9cd1337/invokebinder-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.headius:unsafe-fences:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.headius/unsafe-fences/1.0/9c023c37909b9ea17e49b596be1ede6d0b8dead4/unsafe-fences-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.headius/unsafe-fences/1.0/4e05c8ee0fcc7dfc60003500afe825a9f563e943/unsafe-fences-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
