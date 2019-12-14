@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop.iml" group="spring-aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop_main.iml" group="spring-aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop/spring-aop_test.iml" group="spring-aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects.iml" group="spring-aspects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects_main.iml" group="spring-aspects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aspects/spring-aspects_test.iml" group="spring-aspects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans.iml" group="spring-beans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans_main.iml" group="spring-beans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-beans/spring-beans_test.iml" group="spring-beans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src.iml" group="spring-build-src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src_main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src_main.iml" group="spring-build-src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src_test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/spring-build-src_test.iml" group="spring-build-src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context/spring-context.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context/spring-context.iml" group="spring-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer.iml" group="spring-context-indexer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer_main.iml" group="spring-context-indexer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-indexer/spring-context-indexer_test.iml" group="spring-context-indexer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support.iml" group="spring-context-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support_main.iml" group="spring-context-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context-support/spring-context-support_test.iml" group="spring-context-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context/spring-context_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context/spring-context_main.iml" group="spring-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-context/spring-context_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-context/spring-context_test.iml" group="spring-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-core/spring-core.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-core/spring-core.iml" group="spring-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-core/spring-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-core/spring-core_main.iml" group="spring-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-core/spring-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-core/spring-core_test.iml" group="spring-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression.iml" group="spring-expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression_main.iml" group="spring-expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-expression/spring-expression_test.iml" group="spring-expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom.iml" group="spring-framework-bom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom_main.iml" group="spring-framework-bom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-framework-bom/spring-framework-bom_test.iml" group="spring-framework-bom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument.iml" group="spring-instrument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument_main.iml" group="spring-instrument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-instrument/spring-instrument_test.iml" group="spring-instrument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl.iml" group="spring-jcl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl_main.iml" group="spring-jcl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jcl/spring-jcl_test.iml" group="spring-jcl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc.iml" group="spring-jdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc_main.iml" group="spring-jdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jdbc/spring-jdbc_test.iml" group="spring-jdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms.iml" group="spring-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms_main.iml" group="spring-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-jms/spring-jms_test.iml" group="spring-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging.iml" group="spring-messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging_main.iml" group="spring-messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-messaging/spring-messaging_test.iml" group="spring-messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm.iml" group="spring-orm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm_main.iml" group="spring-orm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-orm/spring-orm_test.iml" group="spring-orm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm.iml" group="spring-oxm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm_main.iml" group="spring-oxm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-oxm/spring-oxm_test.iml" group="spring-oxm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-test/spring-test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-test/spring-test.iml" group="spring-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-test/spring-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-test/spring-test_main.iml" group="spring-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-test/spring-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-test/spring-test_test.iml" group="spring-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx.iml" group="spring-tx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx_main.iml" group="spring-tx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-tx/spring-tx_test.iml" group="spring-tx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-web/spring-web.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-web/spring-web.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-web/spring-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-web/spring-web_main.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-web/spring-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-web/spring-web_test.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux.iml" group="spring-webflux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux_main.iml" group="spring-webflux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webflux/spring-webflux_test.iml" group="spring-webflux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc.iml" group="spring-webmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc_main.iml" group="spring-webmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webmvc/spring-webmvc_test.iml" group="spring-webmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket.iml" group="spring-websocket" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket_main.iml" group="spring-websocket" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-websocket/spring-websocket_test.iml" group="spring-websocket" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_main.iml" group="spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_test.iml" group="spring" />
+    </modules>
+  </component>
+</project>

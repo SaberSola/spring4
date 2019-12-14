@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tiles:tiles-request-servlet-wildcard:1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-request-servlet-wildcard/1.0.7/2b151fbe0d3c4b0d3cd6b804b30002a878189b74/tiles-request-servlet-wildcard-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-request-servlet-wildcard/1.0.7/2a66abbabb3c79d1276674e3478b9d959419c2f/tiles-request-servlet-wildcard-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

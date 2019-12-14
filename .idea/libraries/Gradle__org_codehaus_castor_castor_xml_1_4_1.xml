@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.castor:castor-xml:1.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.4.1/2cee800a008291305ac4f3a67b674f9c6cb1d07a/castor-xml-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.4.1/9e56ee09bf0e081a930fb96e875533d7a2e4870f/castor-xml-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

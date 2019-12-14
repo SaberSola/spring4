@@ -3,7 +3,9 @@
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
-        <compilerSettings />
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xjsr305=strict" />
+        </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../spring-context-indexer/build/classes/kotlin/main" />
           <option name="noStdlib" value="true" />
@@ -20,6 +22,7 @@
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="coroutinesState" value="warn" />
         </compilerArguments>
       </configuration>
     </facet>
@@ -29,7 +32,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../spring-context-indexer/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../spring-context-indexer/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../spring-context-indexer/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../spring-context-indexer/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />

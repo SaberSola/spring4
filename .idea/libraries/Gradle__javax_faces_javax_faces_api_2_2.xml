@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.faces:javax.faces-api:2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.faces/javax.faces-api/2.2/e314573935023b6151643e97e9629a2d9f6f604d/javax.faces-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.faces/javax.faces-api/2.2/a8ced23fe2ae9fbf2173de2d8ff1d0e6ffdb746f/javax.faces-api-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

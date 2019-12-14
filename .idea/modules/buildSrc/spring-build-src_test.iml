@@ -3,7 +3,9 @@
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
-        <compilerSettings />
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xjsr305=strict" />
+        </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../buildSrc/build/classes/kotlin/test" />
           <option name="noStdlib" value="true" />
@@ -13,13 +15,14 @@
           <option name="addCompilerBuiltIns" value="true" />
           <option name="loadBuiltInsFromDependencies" value="true" />
           <option name="languageVersion" value="1.2" />
-          <option name="apiVersion" value="1.1" />
+          <option name="apiVersion" value="1.2" />
           <option name="pluginOptions">
             <array />
           </option>
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="coroutinesState" value="warn" />
         </compilerArguments>
       </configuration>
     </facet>
@@ -27,119 +30,14 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../../buildSrc/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../buildSrc/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/groovy" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/kotlin" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../buildSrc/src/test/resources" type="java-test-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../buildSrc/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/4.6/generated-gradle-jars/gradle-api-4.6.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/gradle-4.6/src/ide" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/internal-integ-testing" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/platform-native" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/reporting" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/language-groovy" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/build-option" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/launcher" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/platform-base" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/announce" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/signing" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/core" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/installation-beacon" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/jvm-services" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/native" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/tooling-api" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/platform-play" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/ivy" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/wrapper" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/process-services" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/plugins" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/antlr" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/plugin-use" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/language-jvm" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/maven" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/testing-base" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/resources" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/version-control" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/osgi" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/testing-junit-platform" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/resources-http" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/internal-testing" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/composite-builds" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/model-groovy" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/test-kit" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/cli" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/build-init" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/ear" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/jacoco" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/persistent-cache" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/build-comparison" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/publish" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/platform-jvm" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/resources-sftp" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/base-services" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/model-core" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/scala" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/diagnostics" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/dependency-management" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/ide-play" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/workers" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/code-quality" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/language-java" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/build-cache" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/plugin-development" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/core-api" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/javascript" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/resources-gcs" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/testing-native" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/internal-performance-testing" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/ide-native" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/base-services-groovy" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/messaging" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/testing-jvm" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/tooling-api-builders" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/logging" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/language-scala" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/language-native" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/resources-s3" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/internal-android-performance-testing" />
-          <root url="file://$USER_HOME$/gradle-4.6/src/build-cache-http" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module" module-name="spring-build-src_main" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/gradle-4.6/lib/groovy-all-2.4.12.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/gradle-4.6/lib/gradle-installation-beacon-4.6.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/gradle-4.6/src/installation-beacon" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/4.6/generated-gradle-jars/gradle-api-4.6.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/4.7/generated-gradle-jars/gradle-api-4.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -156,12 +54,21 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-core:2.11.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-jul:2.11.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-api:2.11.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-api:2.11.0" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/gradle-4.6/lib/gradle-installation-beacon-4.6.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.7-bin/73xux3q4721jgr4pjvqf9o30/gradle-4.7/lib/groovy-all-2.4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.7-bin/73xux3q4721jgr4pjvqf9o30/gradle-4.7/lib/gradle-installation-beacon-4.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

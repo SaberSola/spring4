@@ -4,6 +4,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-test/3.2.14.BUILD-SNAPSHOT/fc203c43473b310fb635324a815436d830aa51df/reactor-test-3.2.14.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-test/3.2.14.BUILD-SNAPSHOT/4e40eb3d683b4fc832d49b79b239ad897f340836/reactor-test-3.2.14.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-test/3.2.14.BUILD-SNAPSHOT/ec533abf47ff83405b1bdad716e7839abcd35181/reactor-test-3.2.14.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-test/3.2.14.BUILD-SNAPSHOT/1c9f72154561b6e4082bf1c45f3efac6debc5ae7/reactor-test-3.2.14.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

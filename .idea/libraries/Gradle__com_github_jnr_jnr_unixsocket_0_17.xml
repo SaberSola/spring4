@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jnr:jnr-unixsocket:0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-unixsocket/0.17/735e0ea011141da52b1a58b6d344c2c70c287c03/jnr-unixsocket-0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-unixsocket/0.17/807295d262d1fcfeb5fadbffdd0f562a6d6c97bd/jnr-unixsocket-0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

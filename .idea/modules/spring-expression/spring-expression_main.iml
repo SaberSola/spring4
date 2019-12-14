@@ -3,7 +3,9 @@
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
-        <compilerSettings />
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xjsr305=strict" />
+        </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../spring-expression/build/classes/kotlin/main" />
           <option name="noStdlib" value="true" />
@@ -20,6 +22,7 @@
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="coroutinesState" value="warn" />
         </compilerArguments>
       </configuration>
     </facet>
@@ -29,11 +32,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../spring-expression/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../spring-expression/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../spring-expression/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../spring-expression/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-core_main" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -44,8 +47,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
-    <orderEntry type="module" module-name="spring-core_main" />
-    <orderEntry type="module" module-name="spring-jcl_main" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -55,5 +56,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="spring-jcl_main" />
   </component>
 </module>

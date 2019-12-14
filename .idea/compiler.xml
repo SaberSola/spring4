@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="spring-aop_main" target="1.8" />
+      <module name="spring-aop_test" target="1.8" />
+      <module name="spring-aspects_main" target="1.8" />
+      <module name="spring-aspects_test" target="1.8" />
+      <module name="spring-beans_main" target="1.8" />
+      <module name="spring-beans_test" target="1.8" />
+      <module name="spring-build-src_main" target="1.8" />
+      <module name="spring-build-src_test" target="1.8" />
+      <module name="spring-context-indexer_main" target="1.8" />
+      <module name="spring-context-indexer_test" target="1.8" />
+      <module name="spring-context-support_main" target="1.8" />
+      <module name="spring-context-support_test" target="1.8" />
+      <module name="spring-context_main" target="1.8" />
+      <module name="spring-context_test" target="1.8" />
+      <module name="spring-core_main" target="1.8" />
+      <module name="spring-core_test" target="1.8" />
+      <module name="spring-expression_main" target="1.8" />
+      <module name="spring-expression_test" target="1.8" />
+      <module name="spring-framework-bom_main" target="1.8" />
+      <module name="spring-framework-bom_test" target="1.8" />
+      <module name="spring-instrument_main" target="1.8" />
+      <module name="spring-instrument_test" target="1.8" />
+      <module name="spring-jcl_main" target="1.8" />
+      <module name="spring-jcl_test" target="1.8" />
+      <module name="spring-jdbc_main" target="1.8" />
+      <module name="spring-jdbc_test" target="1.8" />
+      <module name="spring-jms_main" target="1.8" />
+      <module name="spring-jms_test" target="1.8" />
+      <module name="spring-messaging_main" target="1.8" />
+      <module name="spring-messaging_test" target="1.8" />
+      <module name="spring-orm_main" target="1.8" />
+      <module name="spring-orm_test" target="1.8" />
+      <module name="spring-oxm_main" target="1.8" />
+      <module name="spring-oxm_test" target="1.8" />
+      <module name="spring-test_main" target="1.8" />
+      <module name="spring-test_test" target="1.8" />
+      <module name="spring-tx_main" target="1.8" />
+      <module name="spring-tx_test" target="1.8" />
+      <module name="spring-web_main" target="1.8" />
+      <module name="spring-web_test" target="1.8" />
+      <module name="spring-webflux_main" target="1.8" />
+      <module name="spring-webflux_test" target="1.8" />
+      <module name="spring-webmvc_main" target="1.8" />
+      <module name="spring-webmvc_test" target="1.8" />
+      <module name="spring-websocket_main" target="1.8" />
+      <module name="spring-websocket_test" target="1.8" />
+      <module name="spring_main" target="1.8" />
+      <module name="spring_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
