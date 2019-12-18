@@ -1099,11 +1099,13 @@ public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFacto
 						converter.convertIfNecessary(value, type, descriptor.getMethodParameter()));
 			}
 
+			//注入的是 List 或者是map的时候
 			Object multipleBeans = resolveMultipleBeans(descriptor, beanName, autowiredBeanNames, typeConverter);
 			if (multipleBeans != null) {
 				return multipleBeans;
 			}
 
+			//查询bean
 			Map<String, Object> matchingBeans = findAutowireCandidates(beanName, type, descriptor);
 			if (matchingBeans.isEmpty()) {
 				if (isRequired(descriptor)) {

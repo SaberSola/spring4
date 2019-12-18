@@ -1416,6 +1416,7 @@ public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFac
 
 			// Add property values based on autowire by type if applicable.
 			if (mbd.getResolvedAutowireMode() == RootBeanDefinition.AUTOWIRE_BY_TYPE) {
+				//根据类型注入
 				autowireByType(beanName, mbd, bw, newPvs);
 			}
 

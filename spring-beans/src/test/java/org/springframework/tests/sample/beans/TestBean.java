@@ -43,6 +43,8 @@ import org.springframework.util.ObjectUtils;
  */
 public class TestBean implements BeanNameAware, BeanFactoryAware, ITestBean, IOther, Comparable<Object> {
 
+	private DummyBean dummyBean;
+
 	private String beanName;
 
 	private String country;
@@ -106,7 +108,6 @@ public class TestBean implements BeanNameAware, BeanFactoryAware, ITestBean, IOt
 	private List<?> otherColours;
 
 	private List<?> pets;
-
 
 	public TestBean() {
 	}
@@ -498,4 +499,11 @@ public class TestBean implements BeanNameAware, BeanFactoryAware, ITestBean, IOt
 		return this.name;
 	}
 
+	public DummyBean getDummyBean() {
+		return dummyBean;
+	}
+
+	public void setDummyBean(DummyBean dummyBean) {
+		this.dummyBean = dummyBean;
+	}
 }
