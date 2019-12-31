@@ -89,7 +89,7 @@ public class BeanFactoryAspectJAdvisorsBuilder {
 				if (aspectNames == null) {
 					List<Advisor> advisors = new LinkedList<>();
 					aspectNames = new LinkedList<>();
-					//TODO 获取所有的beanName
+					//TODO 获取所有的beanName spring容器内所有的bean
 					String[] beanNames = BeanFactoryUtils.beanNamesForTypeIncludingAncestors(
 							this.beanFactory, Object.class, true, false);
 
@@ -107,7 +107,6 @@ public class BeanFactoryAspectJAdvisorsBuilder {
 							continue;
 						}
 						//这里表示如果存在Aspect注解
-
 						if (this.advisorFactory.isAspect(beanType)) {
 							//todo 存入到list中
 							aspectNames.add(beanName);

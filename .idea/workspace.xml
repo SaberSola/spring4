@@ -3,7 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="92937fe1-ad9d-42b3-9088-055107205009" name="Default" comment="add some code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$ShortcutDependencyDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$ShortcutDependencyDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/InjectionMetadata$InjectedElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/InjectionMetadata$InjectedElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/InjectionMetadata.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/annotation/InjectionMetadata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory$AutowireByTypeDependencyDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory$AutowireByTypeDependencyDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$FactoryAwareOrderSourceProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$FactoryAwareOrderSourceProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330DependencyProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330DependencyProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330ProviderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330ProviderFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$MultiElementDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$MultiElementDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$NestedDependencyDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$NestedDependencyDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$SerializedBeanFactoryReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$SerializedBeanFactoryReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -122,63 +145,230 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3564">
-              <caret line="1134" column="43" selection-start-line="1134" selection-start-column="43" selection-end-line="1134" selection-end-column="43" />
+            <state relative-caret-position="-799">
+              <caret line="149" column="13" lean-forward="true" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
               <folding>
-                <element signature="e#8579#8580#0" expanded="true" />
-                <element signature="e#8619#8620#0" expanded="true" />
+                <element signature="e#11117#11118#0" expanded="true" />
+                <element signature="e#11135#11136#0" expanded="true" />
+                <element signature="e#15820#15821#0" expanded="true" />
+                <element signature="e#15839#15840#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/autoproxy/AspectJAwareAdvisorAutoProxyCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="242" selection-start-line="242" selection-end-line="242" />
-              <folding>
-                <element signature="e#27747#27748#0" expanded="true" />
-                <element signature="e#27783#27784#0" expanded="true" />
-                <element signature="e#28856#28857#0" expanded="true" />
-                <element signature="e#28890#28891#0" expanded="true" />
-                <element signature="e#29816#29817#0" expanded="true" />
-                <element signature="e#29852#29853#0" expanded="true" />
-                <element signature="e#33170#33171#0" expanded="true" />
-                <element signature="e#33207#33208#0" expanded="true" />
-                <element signature="e#33532#33533#0" expanded="true" />
-                <element signature="e#33590#33591#0" expanded="true" />
-                <element signature="e#42823#42824#0" expanded="true" />
-                <element signature="e#42894#42895#0" expanded="true" />
-                <element signature="e#60585#60586#0" expanded="true" />
-                <element signature="e#60637#60638#0" expanded="true" />
-                <element signature="e#61355#61356#0" expanded="true" />
-                <element signature="e#61399#61400#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="468">
+              <caret line="102" column="16" lean-forward="true" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            <state relative-caret-position="347">
+              <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectJAdvisorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-165">
+              <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+              <folding>
+                <element signature="e#2951#2952#0" expanded="true" />
+                <element signature="e#3018#3019#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="577" column="57" selection-start-line="577" selection-start-column="57" selection-end-line="577" selection-end-column="57" />
-              <folding>
-                <element signature="e#11117#11118#0" expanded="true" />
-                <element signature="e#11135#11136#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="451">
+              <caret line="95" column="56" selection-start-line="95" selection-start-column="56" selection-end-line="95" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/Advisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator</OriginalElement>
+              <nodes>
+                <node x="747.0" y="79.0">org.springframework.core.Ordered</node>
+                <node x="1028.0" y="188.0">org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor</node>
+                <node x="0.0" y="79.0">java.lang.SuppressWarnings</node>
+                <node x="330.9" y="425.0">org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator</node>
+                <node x="750.846296296296" y="0.0">org.springframework.beans.factory.Aware</node>
+                <node x="394.0" y="0.0">java.io.Serializable</node>
+                <node x="593.5" y="267.0">org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator</node>
+                <node x="1046.0" y="79.0">org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor</node>
+                <node x="417.15" y="346.0">org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator</node>
+                <node x="1105.0" y="0.0">org.springframework.beans.factory.config.BeanPostProcessor</node>
+                <node x="391.0" y="79.0">org.springframework.aop.framework.ProxyConfig</node>
+                <node x="865.0" y="79.0">org.springframework.beans.factory.BeanFactoryAware</node>
+                <node x="365.3166666666666" y="188.0">org.springframework.aop.framework.ProxyProcessorSupport</node>
+                <node x="183.0" y="79.0">org.springframework.aop.framework.AopInfrastructureBean</node>
+                <node x="241.65000000000006" y="504.0">org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator</node>
+                <node x="536.0" y="79.0">org.springframework.beans.factory.BeanClassLoaderAware</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator" target="java.lang.SuppressWarnings">
+                  <point x="-73.0" y="-14.5" />
+                  <point x="403.9" y="400.0" />
+                  <point x="78.92592592592575" y="400.0" />
+                  <point x="78.92592592592575" y="168.0" />
+                  <point x="48.90000000000009" y="168.0" />
+                  <point x="-32.59999999999991" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="java.lang.SuppressWarnings">
+                  <point x="-77.19999999999993" y="-14.5" />
+                  <point x="384.6166666666667" y="138.0" />
+                  <point x="146.70000000000005" y="138.0" />
+                  <point x="65.20000000000005" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.core.Ordered">
+                  <point x="77.20000000000005" y="-14.5" />
+                  <point x="539.0166666666667" y="168.0" />
+                  <point x="796.0" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor">
+                  <point x="79.5" y="-14.5" />
+                  <point x="779.0" y="247.0" />
+                  <point x="1187.5" y="247.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.aop.framework.ProxyProcessorSupport">
+                  <point x="-26.5" y="-14.5" />
+                  <point x="673.0" y="237.0" />
+                  <point x="461.8166666666666" y="237.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.beans.factory.BeanClassLoaderAware">
+                  <point x="38.60000000000002" y="-14.5" />
+                  <point x="500.41666666666663" y="158.0" />
+                  <point x="631.5" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.aop.framework.AopInfrastructureBean">
+                  <point x="-38.60000000000002" y="-14.5" />
+                  <point x="423.2166666666666" y="128.0" />
+                  <point x="277.0" y="128.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator" target="java.lang.SuppressWarnings">
+                  <point x="-78.50000000000011" y="-14.5" />
+                  <point x="320.15" y="479.0" />
+                  <point x="31.675925925925753" y="479.0" />
+                  <point x="31.675925925925753" y="168.0" />
+                  <point x="16.299999999999955" y="168.0" />
+                  <point x="-65.20000000000005" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator" target="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator">
+                  <point x="65.0" y="-14.5" />
+                  <point x="612.15" y="321.0" />
+                  <point x="699.5" y="321.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyConfig" target="java.io.Serializable">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.beans.factory.BeanClassLoaderAware" target="org.springframework.beans.factory.Aware">
+                  <point x="0.0" y="-14.5" />
+                  <point x="631.5" y="54.0" />
+                  <point x="772.346296296296" y="54.0" />
+                  <point x="-21.5" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.aop.framework.ProxyConfig">
+                  <point x="0.0" y="-14.5" />
+                  <point x="461.8166666666666" y="168.0" />
+                  <point x="453.5" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor" target="org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator" target="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator">
+                  <point x="78.49999999999989" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.beans.factory.BeanFactoryAware">
+                  <point x="26.50000000000003" y="-14.5" />
+                  <point x="726.0" y="237.0" />
+                  <point x="945.5" y="237.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor" target="org.springframework.beans.factory.config.BeanPostProcessor">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="java.lang.SuppressWarnings">
+                  <point x="-79.5" y="-14.5" />
+                  <point x="620.0" y="247.0" />
+                  <point x="229.66666666666657" y="247.0" />
+                  <point x="229.66666666666657" y="148.0" />
+                  <point x="114.09999999999991" y="148.0" />
+                  <point x="32.59999999999991" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator" target="java.lang.SuppressWarnings">
+                  <point x="-65.0" y="-14.5" />
+                  <point x="482.15" y="321.0" />
+                  <point x="122.17592592592575" y="321.0" />
+                  <point x="122.17592592592575" y="158.0" />
+                  <point x="81.5" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator" target="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator">
+                  <point x="73.0" y="-14.5" />
+                  <point x="549.9" y="400.0" />
+                  <point x="547.15" y="400.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.beans.factory.BeanFactoryAware" target="org.springframework.beans.factory.Aware">
+                  <point x="0.0" y="-14.5" />
+                  <point x="945.5" y="54.0" />
+                  <point x="815.346296296296" y="54.0" />
+                  <point x="21.5" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="180.5" y="181.5" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -186,44 +376,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+            <state relative-caret-position="473">
+              <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/AopUtils.java">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="234" column="28" selection-start-line="234" selection-start-column="28" selection-end-line="234" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/IntroductionAwareMethodMatcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/MethodMatchers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3281">
-              <caret line="222" column="36" selection-start-line="222" selection-start-column="36" selection-end-line="222" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/AopInfrastructureBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="318">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -284,9 +447,7 @@
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AopConfigUtils.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java" />
-        <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/InstantiationModelAwarePointcutAdvisorImpl.java" />
-        <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ProxyCreatorSupport.java" />
         <option value="$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/config/AnnotationDrivenBeanDefinitionParser.java" />
         <option value="$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java" />
@@ -314,7 +475,9 @@
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java" />
+        <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java" />
+        <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java" />
       </list>
     </option>
   </component>
@@ -326,7 +489,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-93" />
+    <option name="x" value="-391" />
     <option name="y" value="-1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
@@ -461,6 +624,173 @@
             <path>
               <item name="spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="BenchmarkTests.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="scope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
@@ -474,7 +804,7 @@
     <property name="SearchEverywhereHistoryKey" value="earlySingletonObjects&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.DefaultSingletonBeanRegistry#earlySingletonObjects&#10;refresh&#9;PSI&#9;JAVA://org.springframework.context.ConfigurableApplicationContext#refresh&#10;findCandidateComponents&#9;PSI&#9;JAVA://org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider#findCandidateComponents&#10;ClassPathBeanDefinitionScanner&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-context/src/main/java/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java&#10;postProcessBeanFactory&#9;PSI&#9;JAVA://org.springframework.context.support.AbstractApplicationContext#postProcessBeanFactory&#10;ComponentScan&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-context/src/main/java/org/springframework/context/annotation/ComponentScan.java&#10;doScan&#9;PSI&#9;JAVA://org.springframework.context.annotation.ClassPathBeanDefinitionScanner#doScan&#10;parseBeanDefinitionElement&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.BeanDefinitionParserDelegate#parseBeanDefinitionElement&#10;@Comp&#9;PSI&#9;JAVA://org.springframework.stereotype.Component&#10;Component&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-context/src/main/java/org/springframework/context/annotation/ComponentScan.java&#10;@Com&#9;PSI&#9;JAVA://org.springframework.stereotype.Component&#10;@service&#9;PSI&#9;JAVA://org.springframework.stereotype.Service&#10;DefaultListableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.DefaultListableBeanFactory&#10;@Ser&#9;PSI&#9;JAVA://org.springframework.stereotype.Service&#10;Refresh  &#9;PSI&#9;JAVA://org.springframework.context.ConfigurableApplicationContext#refresh&#10;refresh  &#9;null&#9;null&#10;getBean&#9;null&#9;null&#10;createbean&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.CreatesTestBean&#10;Http11&#9;FILE&#9;jar:///Users/zhanglei/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.8/a69ae7b870cce8c6a40756657175560f5ce1244c/tomcat-embed-core-9.0.8-sources.jar!/org/apache/coyote/http11/Http11InputBuffer.java&#10;InputBuffer&#9;PSI&#9;JAVA://org.apache.catalina.connector.InputBuffer&#10;Coyo&#9;PSI&#9;JAVA://org.apache.catalina.connector.CoyoteInputStream&#10;readwi&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver#readWithMessageConverters&#10;readwith&#9;null&#9;null&#10;TransactionAspectSupport&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionAspectSupport&#10;RuntimeExcep&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java&#10;Transta&#9;PSI&#9;JAVA://org.springframework.transaction.TransactionStatus&#10;Tra&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionInterceptor.java&#10;TransactionIn&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionInterceptor&#10;findTransaction&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.AbstractFallbackTransactionAttributeSource#findTransactionAttribute&#10;find&#9;PSI&#9;JAVA://org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessorTests.FixedRateWithInitialDelayTestBean&#10;TxNameHan&#9;PSI&#9;JAVA://org.springframework.transaction.config.TxNamespaceHandler&#10;findAdvis&#9;PSI&#9;JAVA://org.springframework.aop.support.AopUtils#findAdvisorsThatCanApply&#10;getAdvisors&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.AspectJAdvisorFactory#getAdvisors&#10;get&#9;PSI&#9;JAVA://org.springframework.core.annotation.AnnotationUtilsTests.Get&#10;AnnotationAwa&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator&#10;AspectJAutoProxyB&#9;PSI&#9;JAVA://org.springframework.aop.config.AspectJAutoProxyBeanDefinitionParser&#10;AopNameHan&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler&#10;Applica&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;getbean&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory#getBean&#10;xmlBean&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanFactory.java&#10;xml&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-context/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests.java&#10;Xm&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-oxm/spring-oxm.gradle&#10;BeanFactoryTes&#9;FILE&#9;file:///Users/zhanglei/codeing/spring-framework-master/spring-context/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests.java&#10;wrapIfNecessary&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator#wrapIfNecessary&#10;wrapif&#9;PSI&#9;JAVA://org.springframework.web.filter.RelativeRedirectResponseWrapper#wrapIfNecessary&#10;Txname&#9;PSI&#9;JAVA://org.springframework.transaction.config.TxNamespaceHandler&#10;Tx&#9;PSI&#9;JAVA://test.annotation.transaction.Tx&#10;doCreate&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory#doCreateBean&#10;dogetbean&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory#doGetBean&#10;doget&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577009491568" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577808542268" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -691,7 +1021,7 @@
       <workItem from="1577151083186" duration="2110000" />
       <workItem from="1577280746973" duration="618000" />
       <workItem from="1577323844711" duration="1659000" />
-      <workItem from="1577547431365" duration="7706000" />
+      <workItem from="1577547431365" duration="21867000" />
     </task>
     <task id="LOCAL-00001" summary="commit 早期的spring源码">
       <created>1575905978942</created>
@@ -742,7 +1072,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577280762379</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add some code">
+      <created>1577710489724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577710489724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -778,7 +1115,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165186000" />
+    <option name="totallyTimeSpent" value="179347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,10 +1127,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-391" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="-93" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21938232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21938232" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Persistence" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -1008,241 +1345,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/ConfigurableApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jcl/src/main/java/org/apache/commons/logging/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="180" column="9" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/TypeConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/util/ClassUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/convert/converter/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/org/springframework/aop/aspectj/TrickyAspectJPointcutExpressionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="150" column="29" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/Scope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.beans.factory.support.AbstractBeanFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.beans.factory.support.AbstractBeanFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">org.springframework.beans.factory.HierarchicalBeanFactory</node>
-            <node x="" y="">org.springframework.core.AliasRegistry</node>
-            <node x="" y="">org.springframework.core.SimpleAliasRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.support.DefaultSingletonBeanRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.config.SingletonBeanRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.support.AbstractBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.config.ConfigurableBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.support.FactoryBeanRegistrySupport</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="280.0" y="205.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/AliasRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/util/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="182" column="70" selection-start-line="182" selection-start-column="70" selection-end-line="182" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="891" column="26" selection-start-line="891" selection-start-column="26" selection-end-line="891" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanCreationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactoryUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/AnnotatedElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="237" column="32" selection-start-line="237" selection-start-column="32" selection-end-line="237" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/test/java/org/springframework/beans/factory/support/DefaultSingletonBeanRegistryTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="42" column="55" lean-forward="true" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/BeanExpressionResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="202" column="28" selection-start-line="202" selection-start-column="28" selection-end-line="202" selection-end-column="28" />
-          <folding>
-            <element signature="e#6448#6449#0" expanded="true" />
-            <element signature="e#6471#6472#0" expanded="true" />
-            <element signature="e#13385#13386#0" expanded="true" />
-            <element signature="e#13418#13419#0" expanded="true" />
-            <element signature="e#19831#19832#0" expanded="true" />
-            <element signature="e#19864#19865#0" expanded="true" />
-            <element signature="e#19984#19985#0" expanded="true" />
-            <element signature="e#20012#20013#0" expanded="true" />
-            <element signature="e#30249#30250#0" expanded="true" />
-            <element signature="e#30277#30278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/ConstructorResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-385">
-          <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/expression/StandardBeanExpressionResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/SmartInstantiationAwareBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/RootBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="102" column="36" lean-forward="true" selection-start-line="102" selection-start-column="36" selection-end-line="102" selection-end-column="36" />
-          <folding>
-            <element signature="e#13460#13461#0" expanded="true" />
-            <element signature="e#13502#13503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessorAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="358" column="11" selection-start-line="358" selection-start-column="11" selection-end-line="358" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/ContextAnnotationAutowireCandidateResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1068" column="51" selection-start-line="1068" selection-start-column="51" selection-end-line="1068" selection-end-column="51" />
-          <folding>
-            <element signature="e#14818#14819#0" expanded="true" />
-            <element signature="e#14869#14870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactoryAware.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1391,20 +1493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/AopUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -1433,14 +1521,397 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/support/DefaultPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="46" column="80" selection-start-line="46" selection-start-column="80" selection-end-line="46" selection-end-column="80" />
+          <folding>
+            <element signature="e#1814#1815#0" expanded="true" />
+            <element signature="e#1848#1849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/resources/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests-custom-targetsource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/TestAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTestAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTests-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="244" column="6" selection-start-line="244" selection-start-column="6" selection-end-line="244" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-core/src/test/java/org/springframework/util/ReflectionUtilsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="269" column="26" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+          <folding>
+            <element signature="e#9158#9159#0" expanded="true" />
+            <element signature="e#9192#9193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/scope/ScopedProxyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="439" column="16" selection-start-line="439" selection-start-column="16" selection-end-line="439" selection-end-column="16" />
+          <folding>
+            <element signature="e#15114#15115#0" expanded="true" />
+            <element signature="e#15151#15152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="791" column="26" selection-start-line="791" selection-start-column="26" selection-end-line="791" selection-end-column="26" />
+          <folding>
+            <element signature="e#28404#28405#0" expanded="true" />
+            <element signature="e#28427#28428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/AspectJPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+          <folding>
+            <element signature="e#1941#1942#0" expanded="true" />
+            <element signature="e#1966#1967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="113" column="30" lean-forward="true" selection-start-line="113" selection-start-column="30" selection-end-line="113" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectJProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="120" column="57" lean-forward="true" selection-start-line="120" selection-start-column="57" selection-end-line="120" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AopNamespaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AspectJAutoProxyBeanDefinitionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" column="56" lean-forward="true" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AopNamespaceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="85" column="68" selection-start-line="85" selection-start-column="68" selection-end-line="85" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/config/AopConfigUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="102" column="60" selection-start-line="102" selection-start-column="60" selection-end-line="102" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/SmartInstantiationAwareBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator</OriginalElement>
+          <nodes>
+            <node x="747.0" y="79.0">org.springframework.core.Ordered</node>
+            <node x="1028.0" y="188.0">org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor</node>
+            <node x="0.0" y="79.0">java.lang.SuppressWarnings</node>
+            <node x="330.9" y="425.0">org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator</node>
+            <node x="750.846296296296" y="0.0">org.springframework.beans.factory.Aware</node>
+            <node x="394.0" y="0.0">java.io.Serializable</node>
+            <node x="593.5" y="267.0">org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator</node>
+            <node x="1046.0" y="79.0">org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor</node>
+            <node x="417.15" y="346.0">org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator</node>
+            <node x="1105.0" y="0.0">org.springframework.beans.factory.config.BeanPostProcessor</node>
+            <node x="391.0" y="79.0">org.springframework.aop.framework.ProxyConfig</node>
+            <node x="865.0" y="79.0">org.springframework.beans.factory.BeanFactoryAware</node>
+            <node x="365.3166666666666" y="188.0">org.springframework.aop.framework.ProxyProcessorSupport</node>
+            <node x="183.0" y="79.0">org.springframework.aop.framework.AopInfrastructureBean</node>
+            <node x="241.65000000000006" y="504.0">org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator</node>
+            <node x="536.0" y="79.0">org.springframework.beans.factory.BeanClassLoaderAware</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator" target="java.lang.SuppressWarnings">
+              <point x="-73.0" y="-14.5" />
+              <point x="403.9" y="400.0" />
+              <point x="78.92592592592575" y="400.0" />
+              <point x="78.92592592592575" y="168.0" />
+              <point x="48.90000000000009" y="168.0" />
+              <point x="-32.59999999999991" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="java.lang.SuppressWarnings">
+              <point x="-77.19999999999993" y="-14.5" />
+              <point x="384.6166666666667" y="138.0" />
+              <point x="146.70000000000005" y="138.0" />
+              <point x="65.20000000000005" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.core.Ordered">
+              <point x="77.20000000000005" y="-14.5" />
+              <point x="539.0166666666667" y="168.0" />
+              <point x="796.0" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor">
+              <point x="79.5" y="-14.5" />
+              <point x="779.0" y="247.0" />
+              <point x="1187.5" y="247.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.aop.framework.ProxyProcessorSupport">
+              <point x="-26.5" y="-14.5" />
+              <point x="673.0" y="237.0" />
+              <point x="461.8166666666666" y="237.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.beans.factory.BeanClassLoaderAware">
+              <point x="38.60000000000002" y="-14.5" />
+              <point x="500.41666666666663" y="158.0" />
+              <point x="631.5" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.aop.framework.AopInfrastructureBean">
+              <point x="-38.60000000000002" y="-14.5" />
+              <point x="423.2166666666666" y="128.0" />
+              <point x="277.0" y="128.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator" target="java.lang.SuppressWarnings">
+              <point x="-78.50000000000011" y="-14.5" />
+              <point x="320.15" y="479.0" />
+              <point x="31.675925925925753" y="479.0" />
+              <point x="31.675925925925753" y="168.0" />
+              <point x="16.299999999999955" y="168.0" />
+              <point x="-65.20000000000005" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator" target="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator">
+              <point x="65.0" y="-14.5" />
+              <point x="612.15" y="321.0" />
+              <point x="699.5" y="321.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyConfig" target="java.io.Serializable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.BeanClassLoaderAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-14.5" />
+              <point x="631.5" y="54.0" />
+              <point x="772.346296296296" y="54.0" />
+              <point x="-21.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.ProxyProcessorSupport" target="org.springframework.aop.framework.ProxyConfig">
+              <point x="0.0" y="-14.5" />
+              <point x="461.8166666666666" y="168.0" />
+              <point x="453.5" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor" target="org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator" target="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator">
+              <point x="78.49999999999989" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="org.springframework.beans.factory.BeanFactoryAware">
+              <point x="26.50000000000003" y="-14.5" />
+              <point x="726.0" y="237.0" />
+              <point x="945.5" y="237.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor" target="org.springframework.beans.factory.config.BeanPostProcessor">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator" target="java.lang.SuppressWarnings">
+              <point x="-79.5" y="-14.5" />
+              <point x="620.0" y="247.0" />
+              <point x="229.66666666666657" y="247.0" />
+              <point x="229.66666666666657" y="148.0" />
+              <point x="114.09999999999991" y="148.0" />
+              <point x="32.59999999999991" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator" target="java.lang.SuppressWarnings">
+              <point x="-65.0" y="-14.5" />
+              <point x="482.15" y="321.0" />
+              <point x="122.17592592592575" y="321.0" />
+              <point x="122.17592592592575" y="158.0" />
+              <point x="81.5" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator" target="org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator">
+              <point x="73.0" y="-14.5" />
+              <point x="549.9" y="400.0" />
+              <point x="547.15" y="400.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.BeanFactoryAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-14.5" />
+              <point x="945.5" y="54.0" />
+              <point x="815.346296296296" y="54.0" />
+              <point x="21.5" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="180.5" y="181.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding>
+            <element signature="e#2951#2952#0" expanded="true" />
+            <element signature="e#3018#3019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectJAdvisorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/Advisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/autoproxy/AspectJAwareAdvisorAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="102" column="16" lean-forward="true" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="577" column="57" selection-start-line="577" selection-start-column="57" selection-end-line="577" selection-end-column="57" />
+        <state relative-caret-position="-799">
+          <caret line="149" column="13" lean-forward="true" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
           <folding>
             <element signature="e#11117#11118#0" expanded="true" />
             <element signature="e#11135#11136#0" expanded="true" />
+            <element signature="e#15820#15821#0" expanded="true" />
+            <element signature="e#15839#15840#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="95" column="56" selection-start-line="95" selection-start-column="56" selection-end-line="95" selection-end-column="56" />
         </state>
       </provider>
     </entry>
