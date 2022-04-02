@@ -164,7 +164,7 @@ public abstract class LogFactory {
 
 		public static Log createLog(String name) {
 			return new Log4jLog(name);
-		}
+
 	}
 
 

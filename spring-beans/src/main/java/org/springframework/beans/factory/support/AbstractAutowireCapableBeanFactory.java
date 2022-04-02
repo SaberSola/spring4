@@ -1192,7 +1192,7 @@ public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFac
 				}
 			}
 		}
-		//TODO 如果已经解析好的 则直接使用 不用枷锁
+		//TODO 如果已经解析好的 则直接使用 不用加锁
 		if (resolved) {
 			if (autowireNecessary) {
 				//构造函数自动注入
@@ -1205,7 +1205,7 @@ public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFac
 		}
 
 		// Need to determine the constructor...
-		//根据参数解析后遭函数
+		//根据参数解析构造函数
 		Constructor<?>[] ctors = determineConstructorsFromBeanPostProcessors(beanClass, beanName);
 		if (ctors != null ||
 				mbd.getResolvedAutowireMode() == RootBeanDefinition.AUTOWIRE_CONSTRUCTOR ||
@@ -1213,7 +1213,6 @@ public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFac
 			return autowireConstructor(beanName, mbd, ctors, args);
 		}
 		//使用默认构造函数构造
-
 		// No special handling: simply use no-arg constructor.
 		return instantiateBean(beanName, mbd);
 	}

@@ -519,8 +519,6 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 			 * 刷新上下文环境,同时检验Environment中属性的正确性
 			 */
 			prepareRefresh();
-
-
 			//初始化BeanFactory 并进行xml文件的读取
 			//设置是否可以覆盖同名称不同定义的bean
 			//是否支持循环依赖
